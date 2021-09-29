@@ -106,7 +106,7 @@ so you may see him playing the drums at basketball and soccer games this year.
 ## Jerry Wang, LA
 
 Hello, I am a senior CS student. My study interests are artificial intelligent and algorithm design.
-My office hour: MW 4pm - 6pm
+My office hour: Tuesday 4pm - 6pm
 
 
 ## Cameron King, LA in training
