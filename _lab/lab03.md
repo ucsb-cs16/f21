@@ -60,7 +60,7 @@ $ ls -a
 $
 ```
 
-## Step 3: Create the `main` branch in your repo
+## Step 2: Create the `main` branch in your repo
 
 Every git repo can have multiple *branches* of code; this is useful on  projects where there are multiple programmers collaborating on a solution.  Multiple branches allow for
 different versions of the code to live side-by-side in a repository, and then be merged together at a later stage.
