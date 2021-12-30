@@ -19,11 +19,11 @@ In this lab you will get practice with:
 
 
 
-## Step 1: Log on to COE/CSIL/ECI account, cd into `cs16`
+## Step 0: Log on to COE/CSIL/ECI account, cd into `cs16`
 
 Log into your CoE account on CSIL, open a terminal, and use `cd` to move into the `cs16` directory you created in a previous lab.
 
-## Step 2: Find your lab03 repo on GitHub
+## Step 1: Find your lab03 repo on GitHub
 
 You should have an empty repo on GitHub under the name `lab03-YOUR-GITHUB-ID`.   
 
